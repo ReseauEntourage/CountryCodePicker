@@ -834,6 +834,10 @@ class CountryUtils {
         context.getString(R.string.country_grenada_number),
         context.getString(R.string.country_grenada_name)));
 
+    countries.add(new Country(context.getString(R.string.country_guadeloupe_code),
+            context.getString(R.string.country_guadeloupe_number),
+            context.getString(R.string.country_guadeloupe_name)));
+
     countries.add(new Country(context.getString(R.string.country_guatemala_code),
         context.getString(R.string.country_guatemala_number),
         context.getString(R.string.country_guatemala_name)));
